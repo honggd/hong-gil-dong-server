@@ -31,7 +31,6 @@ hong-gil-dong-server
   - 요청 : http://{yourserver.com}/video/set_position/{동영상ID}/reset
   - 결과물 : boolnean
 
-
 5. Demo
 
   http://hong.hoksi.wo.tc/video/play_video/1
