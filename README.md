@@ -38,3 +38,4 @@ hong-gil-dong-server
   <a href="http://hong.hoksi.wo.tc/video/set_position/4/600" target="_blank">동영상 위치 저장</a><br/>
   <a href="http://hong.hoksi.wo.tc/video/set_position/4/reset" target="_blank">동영상 위치 리셋</a><br/>
   
+<a href="https://github.com/honggd/hong-gil-dong-client" target="_blank">* 홍길동 NScreen Tizen 클라이어튼 앱 보기</a>
