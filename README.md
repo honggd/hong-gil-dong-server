@@ -34,4 +34,4 @@ hong-gil-dong-server
 
 5. Demo
 
-  http://hong.hoksi.wo.tc/video/play_video/6
+  http://hong.hoksi.wo.tc/video/play_video/1
