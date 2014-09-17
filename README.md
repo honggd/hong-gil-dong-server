@@ -27,6 +27,11 @@ hong-gil-dong-server
   - 요청 : http://{yourserver.com}/video/set_position/{동영상ID}/{재생포인트}
   - 결과물 : boolnean
 
-4. Demo
+4. 동영상 위치 리셋
+  - 요청 : http://{yourserver.com}/video/set_position/{동영상ID}/reset
+  - 결과물 : boolnean
+
+
+5. Demo
 
   http://hong.hoksi.wo.tc/video/play_video/6
