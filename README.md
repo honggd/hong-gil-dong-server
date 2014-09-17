@@ -1,7 +1,7 @@
 hong-gil-dong-server
 ====================
 
-홍길동 NScreen 서버
+N스크린 홍길동 서버
 
 2014 SOSCON BLUEHACK 해커톤 결과물
 
