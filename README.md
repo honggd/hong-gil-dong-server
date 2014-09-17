@@ -33,8 +33,8 @@ hong-gil-dong-server
 
 5. Demo
 
-  <a href="http://hong.hoksi.wo.tc/video/play_video/4">동영상 보기</a><br/>
-  <a href="http://hong.hoksi.wo.tc/video/get_list">동영상 목록</a><br/>
-  <a href="http://hong.hoksi.wo.tc/video/set_point/4/600">동영상 위치 저장</a><br/>
-  <a href="http://hong.hoksi.wo.tc/video/set_point/4/reset">동영상 위치 리셋</a><br/>
+  <a href="http://hong.hoksi.wo.tc/video/play_video/4" target="_blank">동영상 보기</a><br/>
+  <a href="http://hong.hoksi.wo.tc/video/get_list" target="_blank">동영상 목록</a><br/>
+  <a href="http://hong.hoksi.wo.tc/video/set_point/4/600" target="_blank">동영상 위치 저장</a><br/>
+  <a href="http://hong.hoksi.wo.tc/video/set_point/4/reset" target="_blank">동영상 위치 리셋</a><br/>
   
